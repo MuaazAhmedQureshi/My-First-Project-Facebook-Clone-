@@ -714,4 +714,7 @@ body {
     .info-col, .post-col{
         flex-basis: 100%;
     }
+    .friends-box div p{
+        font-size: 16px;
+    }
 }
