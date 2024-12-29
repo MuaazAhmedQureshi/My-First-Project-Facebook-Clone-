@@ -714,7 +714,9 @@ body {
     .info-col, .post-col{
         flex-basis: 100%;
     }
+}
+@media (max-width: 996px) {
     .friends-box div p{
-        font-size: 16px;
+        font-size: 12px;
     }
 }
